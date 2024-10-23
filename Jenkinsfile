@@ -1,6 +1,6 @@
 node {
    
-   def IMAGE="ludo-forma/app:3.5"
+   def IMAGE="titouan-forma/app:3.5"
    
     stage('Clone') {
           checkout scm
